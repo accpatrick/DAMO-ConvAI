@@ -5,7 +5,7 @@
 [![Pytorch 1.8+](https://img.shields.io/badge/Pytorch-1.8+-red.svg)](https://pytorch.org/blog/pytorch-1.8-released/)
 [![Leaderboard 1.8+](https://img.shields.io/badge/SPIDER-benchmark-pink.svg)](https://yale-lily.github.io/spider)
 
-[![OpenAI 0.27+](https://img.shields.io/badge/News!!-red.svg)]() Please check out our recent work [`BIRD-SQL`](https://bird-bench.github.io/), a monster corss-domain text-to-SQL benchmark. This would be a channel towards of your parser in the real-world scenarios.
+[![OpenAI 0.27+](https://img.shields.io/badge/News!!-red.svg)]() Please check out our recent work [`BIRD-SQL`](https://bird-bench.github.io/), a monster corss-domain text-to-SQL benchmark. This would be a channel towards success of your parser in the real-world scenarios.
 
 
 
